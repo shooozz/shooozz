@@ -3,7 +3,7 @@
 <!--
 **shooozz/shooozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋, my name is Islam
+### My name is Islam
 #### I am frontend developer from Russia
 
 I am passionate about website development and creating amazing user interfaces. Here are some facts about me:
