@@ -1,30 +1,12 @@
-### Hi there 👋
-<h3 align="center">I am frontend developer</h3>
-<!--
-**shooozz/shooozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### My name is Islam
-#### I am frontend developer from Russia
+Привет! Меня зовут Ислам , и я Frontend React разработчик.Вот некоторые факты обо мне:
 
-I am passionate about website development and creating amazing user interfaces. Here are some facts about me:
-
-- I am learning HTML, CSS (SCSS) and JavaScript.
-- I am familiar with various frameworks such as Bootstrap and React and can use them to create fast and efficient web pages.
-- I am also interested in various development tools such as Git and Visual Studio Code and am constantly learning new technologies.
-- I am committed to creating quality code that is easy to read and maintain, and I try to follow development best practices.
-- I have excellent communication skills and am willing to work in a team to achieve common goals.
-
-Thank you for your time and I hope you find me a suitable candidate for your future projects.
-
-Привет! Меня зовут Ислам , и я начинающий Frontend Developer. Я увлекаюсь разработкой веб-сайтов и созданием удивительных пользовательских интерфейсов. Вот некоторые факты обо мне:
-
-- Я изучаю HTML, CSS(SCSS) и JavaScript.
-- Я знаком с различными фреймворками, такими как Bootstrap и React и умею использовать их для создания быстрых и эффективных веб-страниц.
-- Я также интересуюсь различными инструментами разработки, такими как Git и Visual Studio Code, и постоянно учусь новым технологиям.
+- Я изучаю все последние обновления HTML, CSS(SCSS), JavaScript и Typescript.
+- Я знаком с различными фреймворками, такими как Bootstrap и React и умею использовать их для создания быстрых веб-страниц.
+- Я также интересуюсь различными инструментами разработки, постоянно учусь новым технологиям.
 - Я стремлюсь к созданию качественного кода, который легко читать и поддерживать, и я стараюсь следовать лучшим практикам разработки.
 - Я обладаю отличными коммуникативными навыками и готов работать в команде для достижения общих целей.
 
-Спасибо за ваше время, и я надеюсь, что вы найдете меня подходящим кандидатом для ваших будущих проектов.
+Надеюсь, что вы найдете меня полезным для ваших будущих проектов.
 
 
 <h3 align="left">Languages and Tools:</h3>
